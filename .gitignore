@@ -1,0 +1,14 @@
+# Visual Studio build artifacts
+bin/
+obj/
+.vs/
+packages/
+
+# Solution filter formats
+*.slnx
+*.slnf
+
+# Database files (keep only scripts)
+*.mdf
+*.ldf
+*.bak
